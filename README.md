@@ -76,7 +76,7 @@ ___
 *The main guideline for writing proper Javascript is the 
 [AirBnB styleguide](https://github.com/airbnb/javascript)*
 
-### Javascript 1
+### [Javascript 1](https://github.com/be-hacking-hyf/cross-module-1)
 
 **Week 1**
 
